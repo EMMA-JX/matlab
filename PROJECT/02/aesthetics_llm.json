@@ -1,0 +1,43 @@
+{
+  "palette": {
+    "primary": "#333333",
+    "secondary": "#666666",
+    "accent": "#FF5722",
+    "neutral": "#FFFFFF",
+    "bg": "#F7F7F7"
+  },
+  "typography": {
+    "title_font": "Noto Sans",
+    "body_font": "Roboto",
+    "price_font": "Lato",
+    "cta_font": "Montserrat",
+    "sizes_pt": {
+      "title": 130,
+      "subtitle": 80,
+      "body": 40,
+      "price": 32,
+      "cta": 26
+    }
+  },
+  "background": {
+    "mode": "scene",
+    "prefer": "scene",
+    "gradient": {
+      "from": "#FFFFFF",
+      "to": "#EEEEEE",
+      "angle": -15
+    },
+    "scene_prompt": "与产品气质契合的真实场景（不出现商品本体和类似产品）",
+    "blur_radius": 40,
+    "overlay_opacity": 0.65
+  },
+  "shapes": {
+    "card_radius": 0.25,
+    "button_radius": 0.55,
+    "chip_style": "pill_fill",
+    "shadow": {
+      "enabled": true,
+      "elevation": 3
+    }
+  }
+}
